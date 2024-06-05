@@ -44,7 +44,7 @@ Ensure you have Node.js and npm installed on your machine.
     ```sh
     node server.js
     ```
-4. Open a web browser and go to `http://localhost:8080`.
+4. Open a web browser and go to `http://localhost:8080`. if doesn't work open index.html
 
 ### Usage
 - Enter the name of a city in the search box and click the search button or press the Enter key to see detailed weather information for the city.
